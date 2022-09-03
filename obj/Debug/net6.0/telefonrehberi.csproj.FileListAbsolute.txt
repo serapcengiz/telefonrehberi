@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\bin\Debug\net6.0\telefonrehberi.exe
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\bin\Debug\net6.0\telefonrehberi.deps.json
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\bin\Debug\net6.0\telefonrehberi.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\bin\Debug\net6.0\telefonrehberi.dll
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\bin\Debug\net6.0\telefonrehberi.pdb
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.dll
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\refint\telefonrehberi.dll
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.pdb
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\telefonrehberi.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\telefonrehberi\obj\Debug\net6.0\ref\telefonrehberi.dll
